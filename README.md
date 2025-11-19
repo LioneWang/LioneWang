@@ -11,7 +11,7 @@
 <br />
 <br />
 
-Hi there, I'm **Leon Wang**, a  **Software Engineering student** 🚀 from Columbia University.  Currently, I'm looking for a machine leaerning engineer and software engineer intern 👨🏽‍💼. 
+Hi there, I'm **Leon Wang**, a  **Computer Science student** 🚀 from Columbia University.  Currently, I'm looking for a machine leaerning engineer and software engineer intern 👨🏽‍💼. 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
